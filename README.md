@@ -64,6 +64,19 @@
 ### Q21)
 ![image](https://user-images.githubusercontent.com/75212387/212967404-3030a0a0-1a46-4c79-858f-d2453fabad85.png)
 
+# DAY 2
 ### Q22)
+![image](https://user-images.githubusercontent.com/75212387/213109280-0b5eb48e-5c35-4655-9db2-4d6080ae30ca.png)
+
+### Q23)
+![image](https://user-images.githubusercontent.com/75212387/213111612-e3220609-016d-4d8c-b4a5-2ffc1cbddb43.png)
+
+### Q24)
+![image](https://user-images.githubusercontent.com/75212387/213116083-b56d4af5-86f8-4b6d-b4b0-1b96f5a9a9f4.png)
+
+### Q25) 
+![image](https://user-images.githubusercontent.com/75212387/213118255-14dee37a-74e8-4d88-8cd9-ff08552a0469.png)
+
+### Q26)
 
 
