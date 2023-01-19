@@ -110,6 +110,9 @@
 ![image](https://user-images.githubusercontent.com/75212387/213335763-5b92fdb0-e4f2-461c-a475-1ec467981673.png)
 
 ### Q36)
+![image](https://user-images.githubusercontent.com/75212387/213364937-59e97a05-171d-4787-bf22-b4430adf58ec.png)
+
+### Q37)
 
 
 
