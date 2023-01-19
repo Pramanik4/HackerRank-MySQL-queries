@@ -1,4 +1,4 @@
-# SQL
+# HackerRank SQL Queries
 
 ## DAY1
 ### Q1)
@@ -101,6 +101,15 @@
 ### Q33)
 ![image](https://user-images.githubusercontent.com/75212387/213182929-e46bf907-e87b-4829-9419-455450e1e45e.png)
 
+# DAY 3
+
 ### Q34)
+![image](https://user-images.githubusercontent.com/75212387/213334841-12020dc0-2007-4086-9f8b-f6abace647fe.png)
+
+### Q35)
+![image](https://user-images.githubusercontent.com/75212387/213335763-5b92fdb0-e4f2-461c-a475-1ec467981673.png)
+
+### Q36)
+
 
 
